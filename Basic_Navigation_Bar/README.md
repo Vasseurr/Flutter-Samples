@@ -7,7 +7,7 @@ Navigation Bar for Flutter Applications
 ![notifications](https://user-images.githubusercontent.com/67058617/133930005-e179ab7b-fa8e-45e4-8850-498deff8052c.png)
 
 ## Usage
-To Use, simply add SpinCircleBottomBarHolder to your Scaffold's body, as follows:
+To Use, simply add BottomNavigationBar to your Scaffold's body, as follows:
 
 ```dart
 class Home extends StatefulWidget {
