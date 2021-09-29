@@ -10,20 +10,6 @@ Navigation Bar with Provider State Management
 To Use, simply add BottomNavigationBar to your Scaffold's body, as follows:
 
 ```dart
-class Home extends StatefulWidget {
-  const Home({Key? key}) : super(key: key);
-
-  @override
-  _HomeState createState() => _HomeState();
-}
-
-class _HomeState extends State<Home> {
-  @override
-  Widget build(BuildContext context) {
-    var drawerStateInfo = Provider.of<NavigationNotifier>(context);
-
-    return WillPopScope(
-      onWillPop: () => drawerStateInfo.onWillPop(context),
       child: Scaffold(
         appBar: AppBar(
           title: const Text("Flutter Example"),
@@ -87,9 +73,6 @@ class _HomeState extends State<Home> {
           ],
         ),
       ),
-    );
-  }
-}
 
 ```
 
