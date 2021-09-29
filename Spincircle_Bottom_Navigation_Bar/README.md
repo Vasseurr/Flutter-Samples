@@ -9,17 +9,6 @@ Spin Circle Bottom Navigation Bar with Provider State Management
 Add SpinCircleBottomBarHolder to your Scaffold's body, as follows:
 
 ```dart
-class Home extends StatefulWidget {
-  @override
-  _HomeState createState() => _HomeState();
-}
-
-class _HomeState extends State<Home> {
-  @override
-  Widget build(BuildContext context) {
-    var drawerStateInfo = Provider.of<NavigationNotifier>(context);
-    return WillPopScope(
-      onWillPop: () => drawerStateInfo.onWillPop(context),
       child: Scaffold(
         resizeToAvoidBottomInset: false,
         appBar: AppBar(
@@ -103,9 +92,6 @@ class _HomeState extends State<Home> {
           child: drawerStateInfo.viewList[drawerStateInfo.currentBody]!,
         ),
       ),
-    );
-  }
-}
 
 ```
 
