@@ -1,6 +1,6 @@
 # Basic Navigation Bar
 
-Navigation Bar for Flutter Applications
+Navigation Bar with Provider State Management 
 
 ## Demo
 ![home](https://user-images.githubusercontent.com/67058617/133930003-50555d2f-d305-4a06-b419-80d988e9f2b7.png)
