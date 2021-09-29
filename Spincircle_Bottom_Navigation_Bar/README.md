@@ -1,6 +1,6 @@
 # Spin Circle Bottom Navigation Bar
 
-Spin Circle Bottom Navigation Bar for Flutter Applications
+Spin Circle Bottom Navigation Bar with Provider State Management 
 
 # Demo
 ![](https://github.com/retroportalstudio/spincircle_bottom_bar/blob/master/spincircle_bottom_bar.gif)
