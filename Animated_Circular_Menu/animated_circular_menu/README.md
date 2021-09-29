@@ -9,8 +9,10 @@ Circular Menu with Bottom Navigation Bar and Provider State Management
 
 <p float="left">  
   <img src="https://raw.githubusercontent.com/hasan-hm1/circular_menu/master/doc/bottom_center.gif" width="250">
-  <img src="https://raw.githubusercontent.com/hasan-hm1/circular_menu/master/doc/center.gif" width="250">
+<!--  <img src="https://raw.githubusercontent.com/hasan-hm1/circular_menu/master/doc/center.gif" width="250"> -->
   <img src="https://raw.githubusercontent.com/hasan-hm1/circular_menu/master/doc/top_right.gif" width="250">
+  <img src="https://user-images.githubusercontent.com/67058617/135347638-19db4356-31c6-4195-ab55-c471163778df.png" width="300" height="515">
+
 </p>
 
 # Usage
