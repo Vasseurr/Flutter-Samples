@@ -1,6 +1,6 @@
 # Tab Bar
 
-Tab Bar for Flutter Application
+Tab Bar with Provider State Management 
 
 ## Demo
 ![s1](https://user-images.githubusercontent.com/67058617/134079853-d7e4c8a7-3775-4884-9e3f-52b5f12608fd.png)
